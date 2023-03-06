@@ -174,6 +174,7 @@ public class AfkThresholdPlugin extends Plugin
 			case SMITHING_CANNONBALL:
 				/* Fishing */
 			case FISHING_CRUSHING_INFERNAL_EELS:
+			case FISHING_CRUSHING_INFERNAL_EELS_IMCANDO_HAMMER:
 			case FISHING_CUTTING_SACRED_EELS:
 			case FISHING_BIG_NET:
 			case FISHING_NET:
